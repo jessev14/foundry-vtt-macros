@@ -1,2 +1,3 @@
-# foundry-vtt-macros
-Macros for FoundryVTT 
+# FoundryVTT Macros
+
+Collection of macros for FoundryVTT 
